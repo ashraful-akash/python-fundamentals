@@ -19,15 +19,6 @@ The examples below are taken from the file `01_printing_n_variables.py`.
 
 ---
 
-## 💻 Full source code (original)
-
-```python
-print("I love pizza!")
-print("Pizza is the best food ever!")
-````
-
----
-
 ## 🖨️ Printing text with `print()`
 
 The `print()` function outputs text (or other values) to the console.
