@@ -16,4 +16,4 @@ Welcome to **Python Fundamentals**, a beginner-friendly learning platform.
 - Mini Projects
 
 ## 👨‍🏫 Author
-Ashraful Akash
+Md Ashraful Akash Akash
