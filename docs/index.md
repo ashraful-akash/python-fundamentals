@@ -1,6 +1,6 @@
 # 🐍 Python Fundamentals
 
-Welcome to **Python Fundamentals** — a beginner-friendly learning platform designed to help you learn Python **step by step**, from the very basics to practical mini projects.
+Welcome to **Python Fundamentals**  a beginner-friendly learning platform designed to help you learn Python **step by step**, from the very basics to practical mini projects.
 
 This platform is suitable for **absolute beginners**, **CSE students**, and anyone starting their journey with Python.
 
@@ -30,9 +30,8 @@ This platform is suitable for **absolute beginners**, **CSE students**, and anyo
 
 ## 👨‍🏫 Author
 
-**Md Ashraful Akash**  
-🌐 Website: [ashraful-akash.github.io](https://ashraful-akash.github.io)
+[**Md Ashraful Akash**](https://ashraful-akash.github.io)
 
 ---
 
-⭐ If you find this project helpful, consider starring the repository on GitHub!
+⭐ If you find this project helpful, consider starring the repository on [GitHub!](https://github.com/ashraful-akash/python-fundamentals)
