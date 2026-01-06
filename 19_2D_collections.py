@@ -9,6 +9,7 @@ groceries = [fruits,veg,meats]
 
 #print(groceries[2])
 
+
 for collection in groceries:
     for food in collection:
         print(food, end=" ")
@@ -27,4 +28,5 @@ print(num_pad)
 for row in num_pad:
     for num in row:
         print(num, end=" ")
+
     print()
